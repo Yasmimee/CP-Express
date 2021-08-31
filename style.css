@@ -1,0 +1,31 @@
+.cards{
+    display: flex;
+    flex-direction: row;
+    padding: 100px;
+    margin: 100px;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: cadetblue;
+    text-align: center;
+}
+.closed h1 {
+
+    font-size: 40pt;
+    padding-top: 50px;
+}
+h3{
+    font-size: 20pt;
+    text-align: center;
+}
+h4{
+    font-size: 18pt;
+    text-align: center;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+
+}
